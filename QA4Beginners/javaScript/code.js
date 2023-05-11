@@ -1,0 +1,1 @@
+document.getElementById("texty").innerHTML = "Hello there!"

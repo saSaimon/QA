@@ -1,0 +1,60 @@
+p {
+    font-size: 20px;
+    color: red;
+}
+
+h2 {
+    color: blue;
+}
+
+/* ID Selector 
+- Should be unique
+*/
+#something {
+    color: brown;
+}
+
+/* Class Selector 
+- Can be shared by multiple elements
+*/
+.somethingElse {
+    color: darkgreen;
+}
+
+#fonts1 {
+    font-size: 36px;
+    font-family: "Times New Roman", Times, serif;
+    font-weight: bold;
+    border: 5px dashed orange;
+}
+
+#fonts2 {
+    font-size: 2em; 
+    font-family: "Arial", Helvetica, sans-serif;
+    border: 2px dotted blue;
+}
+
+#fonts3 {
+    font-size: 20px;
+    font-family: fantasy;
+    border: 8px solid black;
+    border-bottom-color: red;
+}
+
+body {
+    /* background-color: #4286f4; */
+    /* background-color: blue; */
+    /* background-color: rgba(0, 0, 255, 0.699) */
+}
+
+div {
+    border: 20px solid red;
+    width: 500px;
+    height: 50px;
+    padding: 40px;
+    margin: 20px;
+}
+
+div p {
+    text-align: center;
+}

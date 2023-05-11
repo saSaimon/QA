@@ -1,0 +1,14 @@
+Acceptance Criteria for the "Math 0.1" Webpage.
+
+Webpage URL: http://glitchitsystem.com/mathTesting/math01
+
+1. Webpage loads without any errors.
+2. Webpage tab title is "Math 0.1"
+3. Heading is "This is Math!"
+4. Body text is "The purpose of this site is to display a random basic arithmatic problem."
+5. Arithmatic problem is always addition.
+6. Numbers are bordered.
+7. Button text is "New Random Problem".
+8. Pressing button will generate a new math problem.
+9. Math problem answer is always correct.
+10. Design Matches Mockup.
